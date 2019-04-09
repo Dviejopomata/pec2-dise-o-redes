@@ -8,7 +8,7 @@ Checkeamos los otros PC, y tienen las ips y gateways correctas.
 
 Vamos a intentar hacer ping del PC2 R2 (192.168.10.2).
 No podemos, sin embargo, si que podemos acceder al 192.168.10.1, que es la salida de R1, por lo que hay algo mal ahi.
-![image](imagenes/ej2/PC2-PC2-timeout.png)
+![image](imagenes/ej2/PC2-timeout.png)
 
 Vamos a ver la configuracion del OSPF de los routers
 
